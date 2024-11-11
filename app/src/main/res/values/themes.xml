@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GestionFicherosCrash" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="android:windowBackground">@drawable/crash_background</item>
+        <item name="colorPrimary">@color/brown</item>
+        <item name="colorAccent">@color/orange</item>
+    </style>
+
+    <style name="Theme.GestionFicherosCrash" parent="Base.Theme.GestionFicherosCrash" />
+</resources>

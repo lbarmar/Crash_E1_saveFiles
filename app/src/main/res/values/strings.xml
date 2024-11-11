@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GestionFicherosCrash</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="level">Nivel:</string>
+    <string name="player">Jugador:</string>
+    <string name="achievements">Logros</string>
+    <string name="superar_el_primer_nivel">Superar el primer nivel</string>
+    <string name="conseguir_100_manzanas">Conseguir 100 manzanas</string>
+    <string name="derrotar_al_jefe_inicial">Derrotar al jefe inicial</string>
+    <string name="points">Puntuación</string>
+</resources>
