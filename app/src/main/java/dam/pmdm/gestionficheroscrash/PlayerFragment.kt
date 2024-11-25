@@ -22,7 +22,6 @@ class PlayerFragment : Fragment() {
         binding = FragmentPlayerBinding.inflate(inflater, container, false)
 
 //        Crea un archivo 'player_data.json' en el directorio de archivos internos de la aplicación
-        jsonFile = File(requireContext().filesDir, "player_data.json")
 
         binding.player = readPlayerFromFile()
 
